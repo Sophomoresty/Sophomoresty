@@ -9,23 +9,30 @@
 
 ## 🧬 About Me
 
-```python
-class SophomorestySol:
-    def __init__(self):
-        self.alias = "靝悠Sol"
-        self.role = ["Reverse Engineer", "Penetration Tester", "Tool Developer"]
-        self.language = ["Python", "JavaScript", "C/C++"]
-        self.interests = ["Binary Exploitation", "Web Security", "Protocol Reversing", "API Hacking"]
-        self.motto = "If it runs, it can be reversed."
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    def current_focus(self):
-        return [
-            "🔓 Bypassing paywalls & DRM",
-            "🕸️ Web-to-API protocol reversing",
-            "🛠️ Building offensive security tools",
-            "🤖 AI-powered automation agents",
-        ]
-```
+### 🎯 Who Am I
+
+- 🔐 **Reverse Engineer** & **Penetration Tester**
+- 🛠️ Offensive Security **Tool Developer**
+- 🧩 Protocol Reversing & API Hacking Enthusiast
+- 💬 Motto: *"If it runs, it can be reversed."*
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Current Focus
+
+- 🔓 Bypassing paywalls & DRM
+- 🕸️ Web-to-API protocol reversing
+- 🛠️ Building offensive security tools
+- 🤖 AI-powered automation agents
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
