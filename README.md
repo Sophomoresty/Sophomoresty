@@ -74,15 +74,17 @@ class SophomorestySol:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sophomoresty&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6633&currStreakLabel=58A6FF" />
+  <img src="https://streak-stats.demolab.com/?user=Sophomoresty&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6633&currStreakLabel=58A6FF" />
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Sophomoresty/Sophomoresty/output/github-snake-dark.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sophomoresty/Sophomoresty/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sophomoresty/Sophomoresty/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sophomoresty/Sophomoresty/output/github-snake-dark.svg" />
+</picture>
 </div>
 
 ## 📈 Activity Graph
