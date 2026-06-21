@@ -9,10 +9,6 @@ Undergrad at Sichuan University (Mechanical Engineering). Interested in AI-power
 - [claude-code-enhance](https://github.com/Sophomoresty/claude-code-enhance) — Claude Code enhancement toolkit
 - [qmdec](https://github.com/Sophomoresty/qmdec) — QQ Music encrypted file decryptor
 
-### Tech
-
-Python, JavaScript, C++, Linux, Docker, IDA Pro, Frida
-
 ---
 
 [![LinuxDo](https://img.shields.io/badge/社区-LinuxDo-blue?style=flat)](https://linux.do/)
