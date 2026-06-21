@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-CS student interested in reverse engineering, security research, and building tools.
+Undergrad at Sichuan University (Mechanical Engineering). Interested in AI-powered automation for reverse engineering and security research.
 
 ### Projects
 
