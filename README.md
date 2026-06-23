@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Undergrad at SCU. Started in Mechanical Engineering 🔧, detoured into graphic design & video editing 🎨, had an existential crisis 💀, pivoted to CS, and somehow ended up doing AI-powered reverse engineering 🤷. Jack of all trades, master of none.
+SCU → FDU (Shanghai). Started in Mechanical Engineering 🔧, detoured into graphic design & video editing 🎨, had an existential crisis 💀, pivoted to CS, and somehow ended up doing AI-powered reverse engineering 🤷. Jack of all trades, master of none.
 
 ### Projects
 
