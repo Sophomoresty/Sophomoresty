@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-SCU undergrad, soon based in Shanghai (Fudan). Started in Mechanical Engineering 🔧, detoured into graphic design & video editing 🎨, had an existential crisis 💀, pivoted to CS, and somehow ended up doing AI-powered reverse engineering 🤷. Jack of all trades, master of none.
+SCU undergrad, based in Shanghai. Started in Mechanical Engineering 🔧, detoured into graphic design & video editing 🎨, had an existential crisis 💀, pivoted to CS, and somehow ended up doing AI-powered reverse engineering 🤷. Jack of all trades, master of none.
 
 ### Projects
 
