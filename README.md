@@ -38,4 +38,8 @@ Python, JavaScript, C++, Linux, Docker, IDA Pro, Frida
 
 ---
 
+### 技术分享交流群 / Community Group
+
+<img src="./assets/wechat-group-qr.jpg" width="240" alt="技术分享交流群二维码" />
+
 [![LinuxDo](https://img.shields.io/badge/社区-LinuxDo-blue?style=flat)](https://linux.do/)
