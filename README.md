@@ -1,14 +1,12 @@
+### 技术分享交流群 / Tech-Sharing Group
+
+<img src="./assets/wechat-group-qr.jpg" width="240" alt="技术分享交流群二维码" />
+
 ## Hi there 👋
 
 SCU undergrad, based in FDU Shanghai. Started in Mechanical Engineering 🔧, detoured into graphic design & video editing 🎨, had an existential crisis 💀, pivoted to CS, somehow ended up doing AI-powered reverse engineering 🤷, and now tinkering with model-driven quant trading 📈. Jack of all trades, master of none.
 
 川大本科, 现居上海复旦. 学过机械 🔧, 干过平面设计和视频剪辑 🎨, 怀疑过人生 💀 后转了 CS, 一路拐到拿 AI 做逆向 🤷, 最近在折腾模型量化交易 📈. 啥都沾一点, 啥都不精.
-
-### Community / 技术分享交流群
-
-<img src="./assets/wechat-group-qr.jpg" width="240" alt="技术分享交流群二维码" />
-
-[![LinuxDo](https://img.shields.io/badge/社区-LinuxDo-blue?style=flat)](https://linux.do/)
 
 ### Projects / 项目
 
