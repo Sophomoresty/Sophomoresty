@@ -2,6 +2,10 @@
 
 <img src="./assets/wechat-group-qr.jpg" width="240" alt="技术分享交流群二维码" />
 
+> 群里主要交流逆向工程, AI Agent 工具链与模型量化折腾记录.
+>
+> Mainly sharing reverse engineering, AI agent tooling, and quant trading experiments.
+
 ## Hi there 👋
 
 SCU undergrad, based in FDU Shanghai. Started in Mechanical Engineering 🔧, detoured into graphic design & video editing 🎨, had an existential crisis 💀, pivoted to CS, somehow ended up doing AI-powered reverse engineering 🤷, and now tinkering with model-driven quant trading 📈. Jack of all trades, master of none.
